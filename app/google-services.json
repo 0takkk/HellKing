@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361169432825",
+    "firebase_url": "https://hellking-7b140.firebaseio.com",
+    "project_id": "hellking-7b140",
+    "storage_bucket": "hellking-7b140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361169432825:android:934383096f2f778c36f228",
+        "android_client_info": {
+          "package_name": "com.example.hellking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361169432825-j3mhu8omthid20jatosn12ambpasqtn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellking",
+            "certificate_hash": "6eac8d1314d5bf9639ffe9254b918e06a067adef"
+          }
+        },
+        {
+          "client_id": "361169432825-693i8bts7vtkaarcf8pjiv2ouj8cu2ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzk2d3L34wrLdUQOfK4jia41LYKJaIkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361169432825-693i8bts7vtkaarcf8pjiv2ouj8cu2ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

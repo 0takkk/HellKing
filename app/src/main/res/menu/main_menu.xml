@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info"
+        android:title="내 정보" />
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="홈" />
+
+    <item android:title="Exercise">
+        <menu>
+                <item
+                    android:id="@+id/nav_exercise"
+                    android:icon="@drawable/ic_running"
+                    android:title="운동 하기" />
+        </menu>
+    </item>
+
+
+    <item android:title="Community">
+        <menu>
+                <item
+                    android:id="@+id/nav_community"
+                    android:icon="@drawable/ic_chat"
+                    android:title="커뮤니티" />
+                <item
+                    android:id="@+id/nav_rank"
+                    android:icon="@drawable/ic_ranking"
+                    android:title="운동 랭킹" />
+        </menu>
+    </item>
+
+    <item android:title="Etc">
+        <menu>
+            <item
+                android:id="@+id/nav_find"
+                android:icon="@drawable/ic_loupe"
+                android:title="헬스장 찾기" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_exit"
+                android:title="로그아웃" />
+        </menu>
+    </item>
+</menu>
